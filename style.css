@@ -205,7 +205,7 @@
 
 
 
-/*.special-menu p {
+.special-menu p {
         font-family: "Open Sans", sans-serif;
         font-size: 15px;
         font-style: italic;
@@ -214,7 +214,6 @@
     }
 
     .special-menu p:before {
-        border-bottom: 2px dotted #ddd;
         content: "";
         height: 1px;
         left: 0%;
@@ -223,24 +222,25 @@
         width: 100%;
         z-index: 1;
     }
-*/
- /*   .special-menu h3 {
+
+    .special-menu h3 {
         font-family: "Open Sans", sans-serif;
         font-size: 24px;
         font-style: italic;
         margin: 0 0 5px;
         padding: 0;
         text-transform: none;
-    }*/
-
-   /* .special-menu p span {
-        background: #efeded;
+    }
+    .special-menu p span {
+        background: none;
         display: inline-block;
         position: relative;
         z-index: 2;
         padding: 0 10px 0 0;
     }
-*/
+
+
+
     .special-menu .special-menu-price {
        /* background: #efeded;*/
         display: inline-block;
@@ -252,17 +252,56 @@
         z-index: 3;
     }
 
-   /* .special-menu ul {
+    .special-menu ul {
         list-style: outside none none;
         padding: 0;
-    }*/
+    }
 
-    /*.special-menu ul > li {
+    .special-menu ul > li {
         margin-bottom: 30px;
-    }*/
-.price{
- 		
-       
-     
-        
- }
+    }
+.special-menu{
+	margin-right: :60px;
+	background-color: #fff;
+	padding:20px;
+	margin-top:20px;
+}
+.no-padding{
+	padding-left:0px !important;
+	padding-right: 0px !important;
+}
+.topmargin{
+	margin-top: 80px;
+}
+footer{
+	background-color: #000;
+	color: #fff;
+}
+.footeraddress>h2{
+	font-family: pacifico;
+	margin-bottom: 30px;
+}
+.footermargin{
+	padding-top: 80px;
+	text-align: center;
+}
+form input{
+	width: 250px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #ccc
+}
+textarea{
+	align-content: center;
+	width: 250px;
+	border-radius: 5px;
+	background-color: #ccc;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.footercopyright{
+	text-align: center;
+	background-color: #ccc;
+	color: #000;
+}

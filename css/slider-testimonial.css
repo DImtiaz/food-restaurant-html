@@ -1,25 +1,24 @@
-@import url(//cdn.rawgit.com/rtaibah/dubai-font-cdn/master/dubai-font.css);
 
 
 .testim {
 		height: 100%;
-    -webkit-background-image: url("https://s26.postimg.org/jwkc4z42h/testim6.jpg");
+    -webkit-background-image: url("../img/slider/Testim.jpg");
     -webkit-background-size: cover;
     -webkit-background-position: center;
     -webkit-background-attachment: fixed;
-    -moz-background-image: url("https://s26.postimg.org/jwkc4z42h/testim6.jpg");
+    -moz-background-image: url("../img/slider/Testim.jpg");
     -moz-background-size: cover;
     -moz-background-position: center;
     -moz-background-attachment: fixed;
-    -ms-background-image: url("https://s26.postimg.org/jwkc4z42h/testim6.jpg");
+    -ms-background-image: url("../img/slider/Testim.jpg");
     -ms-background-size: cover;
     -ms-background-position: center;
     -ms-background-attachment: fixed;
-    -o-background-image: url("https://s26.postimg.org/jwkc4z42h/testim6.jpg");
+    -o-background-image: url("../img/slider/Testim.jpg");
     -o-background-size: cover;
     -o-background-position: center;
     -o-background-attachment: fixed;
-    background-image: url("https://s26.postimg.org/jwkc4z42h/testim6.jpg");
+    background-image: url("../img/slider/Testim.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

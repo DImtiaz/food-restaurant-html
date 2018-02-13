@@ -5,7 +5,7 @@
   src:url(../fonts/pacifico.ttf);
  }
  .slider{
-    font-family:pacifico;
+    font-family:audrey;
  }
 
 #ninja-slider {
@@ -13,14 +13,14 @@
     background:#FFF;
     padding: 0!important;
 
-    margin:0 auto;
+    margin:0 ;
     overflow:hidden;
     box-sizing:border-box;
 }
 
 #ninja-slider .slider-inner {
     /*max-width:720px;*/
-    margin:0 auto;/*center-aligned */
+    margin:0 ;/*center-aligned */
     font-size:0px;
     position:relative;
     box-sizing:border-box;
@@ -78,12 +78,12 @@
 #ninja-slider .caption {
     font-size:4em;
     position:absolute;
-     font-family:pacifico;
+     font-family:times;
     width:100%;
     text-align:center;
     color:rgba(255,255,255,1);
     background-color:#02020287;
-    bottom:35%;
+    bottom:30%;
 }
 .caption>span{
     font-size:0.5em;
